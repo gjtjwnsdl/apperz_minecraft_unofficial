@@ -3,7 +3,7 @@
 
 현재 모드 리스트(계속 갱신됩니다.)
 
-1. Applied Energistics 2(응용 에너지학 2) - rv6.stable.build6
+1. Applied Energistics 2(응용 에너지학 2) - rv6.stable.build_7
 
 
 2. Buildcraft(빌드크래프트) - 7.99.24.2
